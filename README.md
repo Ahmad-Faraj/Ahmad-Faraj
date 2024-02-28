@@ -23,6 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmad-faraj&show_icons=true&locale=en&layout=compact" alt="ahmad-faraj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmad-faraj&show_icons=true&locale=en" alt="ahmad-faraj" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad-faraj&" alt="ahmad-faraj" /></p>

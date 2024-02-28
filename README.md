@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Faraj</h1>
 <h3 align="center">A university student interested in Competitive Programming and Software Engineering</h3>
 
+<br>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-faraj&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-faraj" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>

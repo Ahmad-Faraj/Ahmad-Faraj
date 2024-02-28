@@ -1,8 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://ahmad-faraj.io)
-<h1 align="center">Hi 👋, I'm AhmAd Faraj</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Faraj</h1>
 <h3 align="center">A university student interested in Competitive Programming and Software Engineering</h3>
-
-(img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-faraj&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-faraj" /> </p>
 

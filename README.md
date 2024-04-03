@@ -1,4 +1,4 @@
-<h3 align="center">A University Student interested in Competitive Programming and Software Engineering</h3>
+<h3 align="center"><i><b>A University Student interested in Competitive Programming and Software Engineering</b></i></h3>
 <p align="center">
   <img src="https://github.com/Ahmad-Faraj/Ahmad-Faraj/assets/148560615/4c71522d-263c-4a72-a5fb-30154136986a" alt="animated" width="70%"/>
 </p>
@@ -7,11 +7,8 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p align="center">- 🔭 I’m currently working on **a new website.**</p>
-
-<p align="center">- 🌱 I’m currently learning **advanced topics in problem solving.**</p>
-
-<p align="center">- 💬 Ask me about **CP / Web Dev**</p>
+<p align="center">- 💡 <i>I’m currently learning Back-End Development.</i> </p>
+<p align="center">- 🔍 <i>I’m currently seeking </i>${\textsf{\color{lightblue}Specialist}}$<i> on Codeforces.</i></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

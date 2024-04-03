@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p align="center">- 💡 <i>I’m currently learning Back-End Development.</i> </p>
+<p align="center">- 💡 <i>I’m currently learning</i> ${\textsf{\color{bisque}Back-End}}$ <i>Development.</i> </p>
 <p align="center">- 🔍 <i>I’m currently seeking </i>${\textsf{\color{lightblue}Specialist}}$<i> on Codeforces.</i></p>
 
 <h3 align="center">Connect with me:</h3>

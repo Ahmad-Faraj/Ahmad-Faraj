@@ -1,6 +1,6 @@
 <h3 align="center"><i><b>A University Student interested in Competitive Programming and Software Engineering</b></i></h3>
 <p align="center">
-  <img src="https://github.com/Ahmad-Faraj/Ahmad-Faraj/assets/148560615/4c71522d-263c-4a72-a5fb-30154136986a" alt="animated" width="85%"/>
+  <img src="https://github.com/Ahmad-Faraj/Ahmad-Faraj/assets/148560615/4c71522d-263c-4a72-a5fb-30154136986a" alt="animated" width="67%"/>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmad-faraj&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-faraj" /> </p>

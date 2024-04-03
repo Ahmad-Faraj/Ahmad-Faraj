@@ -1,5 +1,8 @@
-<h1 align="center">Hi, I'm Ahmed Faraj 👋</h1>
-<h3 align="center">A university student interested in Competitive Programming and Software Engineering</h3>
+<h3 align="center">A University Student interested in Competitive Programming and Software Engineering</h3>
+<p align="center">
+  <img src="https://github.com/Ahmad-Faraj/Ahmad-Faraj/assets/148560615/4c71522d-263c-4a72-a5fb-30154136986a" alt="animated" width="70%"/>
+</p>
+
 
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 150px/>

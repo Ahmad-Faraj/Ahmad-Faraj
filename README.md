@@ -1,4 +1,3 @@
-<h3 align="center"><i><b>A University Student interested in Competitive Programming and Software Engineering</b></i></h3>
 <p align="center">
   <img src="https://github.com/Ahmad-Faraj/Ahmad-Faraj/assets/148560615/4c71522d-263c-4a72-a5fb-30154136986a" alt="animated" width="67%"/>
 </p>

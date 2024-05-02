@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Ahmad-Faraj/Ahmad-Faraj/assets/148560615/4c71522d-263c-4a72-a5fb-30154136986a" alt="animated" width="90%"/>
+  <img src="https://github.com/Ahmad-Faraj/Ahmad-Faraj/assets/148560615/4c71522d-263c-4a72-a5fb-30154136986a" alt="animated" width="80%"/>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmad-faraj&label=Profile%20views&color=1a1a1a&style=for-the-badge" alt="ahmad-faraj" /> </p>

@@ -4,8 +4,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmad-faraj&label=Profile%20views&color=1a1a1a&style=for-the-badge" alt="ahmad-faraj" /> </p>
 
-<p align="center">- 💡 <i>I’m currently learning </i><b>Back-End</b><i> Development.</i></p>
-<p align="center">- 🔍 <i>I’m currently seeking </i><b>Expert</b><i> on Codeforces.</i></p>
+<p align="center">- 💡 <i>I’m currently learning </i><b>Back-End / DevOps</b><i></i></p>
+<p align="center">- 🔍 <i>I’m currently seeking </i><b>Expert</b><i> on Codeforces</i></p>
 
 <h3 align="center">Languages & Tools</h3>
 <p align="center">

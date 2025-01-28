@@ -10,7 +10,9 @@
 <h3 align="center">Languages & Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,nodejs,express,mysql,postgresql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql,mongodb" />
   </a>
 </p>
 <h3 align="center">Connect With Me</h3>

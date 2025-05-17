@@ -4,7 +4,7 @@
 - CS student at [`Suez Canal University`](https://suez.edu.eg/ar/).
 - <b>1×</b> `ECPC` Finalist — `Specialist` @Codeforces.
 - Interested in `back-end`, `low-level programming`, and `core CS concepts`.
-- I use `Vim`, btw — and yes, I <3 `Linux` & `Bash`.
+- I use `nvim`, btw — and yes, I <3 `linux` & `bash`.
 - No such thing as a hard problem — only a skill issue.
 - My favourite chess opening? Caro-Kann, of course.
 - Competitive programming: [`Codeforces`](https://codeforces.com/profile/Ahmed_Faraj), [`LeetCode`](https://leetcode.com/u/Ahmed_Faraj/), [`AtCoder`](https://atcoder.jp/users/Ahmed_Faraj).

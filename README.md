@@ -5,7 +5,7 @@
 - <b>1×</b> `ECPC` Finalist — `Specialist` @Codeforces.
 - Interested in `back-end`, `low-level programming`, and `core CS concepts`.
 - I use `nvim`, btw — and yes, I <3 `linux` & `bash`.
-- No such thing as a hard problem — only a skill issue.
+- No such thing as a hard problem — just a skill issue.
 - My favourite chess opening? Caro-Kann, of course.
 - Competitive programming: [`Codeforces`](https://codeforces.com/profile/Ahmed_Faraj), [`LeetCode`](https://leetcode.com/u/Ahmed_Faraj/), [`AtCoder`](https://atcoder.jp/users/Ahmed_Faraj).
 - Connect via [`Gmail`](mailto:ahmedfrag4040@gmail.com) or [`LinkedIn`](https://www.linkedin.com/in/ahmed-faraj-cs/).

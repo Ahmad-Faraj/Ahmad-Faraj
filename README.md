@@ -2,7 +2,7 @@
 
 #### $ About me
 - CS student at [`Suez Canal University`](https://suez.edu.eg/ar/).
-- <b>1×</b> `ECPC` Finalist — `Specialist` @Codeforces.
+- <b>1×</b> `ECPC` Finalist — `Expert` @Codeforces.
 - Interested in `back-end`, `low-level programming`, and `core CS concepts`.
 - I use `nvim`, btw — and yes, I <3 `linux` & `bash`.
 - No such thing as a hard problem — just a skill issue.

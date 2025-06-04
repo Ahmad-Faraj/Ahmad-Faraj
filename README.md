@@ -1,4 +1,4 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Play&pause=1000&color=A2F749&center=true&vCenter=true&width=420&height=15&lines=Hi,+I'm+Ahmed+Faraj_;Obsessed+with+CP+%26+Mathematics_;Feel+free+to+explore+my+repos_;ahmed@faraj:~$+grep+%22i%3C3bash%22+readme.md_" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Play&pause=1000&color=A2F749&center=true&vCenter=true&width=420&height=20&lines=Hi,+I'm+Ahmed+Faraj_;Obsessed+with+CP+%26+Mathematics_;Feel+free+to+explore+my+repos_;ahmed@faraj:~$+grep+%22i%3C3bash%22+readme.md_" alt="Typing SVG" /></a></p>
 
 #### $ About me  
 CS student at [`Suez Canal University`](https://suez.edu.eg/ar/) — 1× `ECPC` Finalist, `Expert` @Codeforces. Interested in Backend, DevOps, and core CS like databases, compilers, and OS. I enjoy mathematics and contributing to open-source projects — and yes, I use `nvim`, btw.
